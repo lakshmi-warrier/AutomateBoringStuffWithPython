@@ -1,2 +1,2 @@
-# AutomateBoringStuffWithPython
-test
+# Automate the boring stuff with Python
+
