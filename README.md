@@ -18,7 +18,7 @@ Missing notebooks:
 | 09: Files             | :heavy_check_mark:  | :heavy_check_mark: | 2/3 |
 | 10: Organizing Files  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 11: Debugging         | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
-| 12: Web Scraping      | :heavy_check_mark:  |  | 2/4 |
+| 12: Web Scraping      | :heavy_check_mark:  |:heavy_check_mark:  | 3/4 |
 | 13: Excel spreadsheets| :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark: |
 | 14: Google Sheets     | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 15: Word and PDF files|:heavy_check_mark:  | |  |
