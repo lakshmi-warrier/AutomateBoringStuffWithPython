@@ -1,9 +1,8 @@
 # Automate the boring stuff with Python
 
 Missing notebooks:
-- 12
-- 13
 - 15
+- 17
 
 | Task                  | Read                | Practice questions | Practice projects did|
 |-----------------------|---------------------|--------------------|----------------------|
