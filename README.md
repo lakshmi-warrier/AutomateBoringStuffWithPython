@@ -2,6 +2,7 @@
 
 Missing notebooks:
 - 15
+- 18
 
 
 | Task                  | Read                | Practice questions | Practice projects did|
@@ -24,5 +25,5 @@ Missing notebooks:
 | 16: CSV & JSON        | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 17: Scheduling        | :heavy_check_mark:|:heavy_check_mark: |:heavy_check_mark:  |
 | 18: Email and text messages |  |  |  |
-| 19: Images |:heavy_check_mark:  |  |:heavy_check_mark:  |
+| 19: Images |:heavy_check_mark:  |:heavy_check_mark: |  |
 | 20: Controlling keyboard and mouse |  |  |  |
