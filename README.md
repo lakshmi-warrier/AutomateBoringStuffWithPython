@@ -2,7 +2,6 @@
 
 Missing notebooks:
 - 18
-- 20
 
 
 | Task                  | Read                | Practice questions | Practice projects did|
@@ -26,4 +25,4 @@ Missing notebooks:
 | 17: Scheduling        | :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
 | 18: Email and text messages |  |  |  |
 | 19: Images		|:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:  |
-| 20: PyAutoGUI	| :heavy_check_mark:  |  |  |
+| 20: PyAutoGUI	| :heavy_check_mark:  | :heavy_check_mark:  |  1/4|
