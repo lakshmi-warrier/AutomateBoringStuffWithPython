@@ -19,11 +19,11 @@ Missing notebooks:
 | 10: Organizing Files  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 11: Debugging         | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 12: Web Scraping      | :heavy_check_mark:  |:heavy_check_mark:  | 3/4 |
-| 13: Excel spreadsheets| :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark: |
+| 13: Excel spreadsheets| :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
 | 14: Google Sheets     | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
-| 15: Word and PDF files|:heavy_check_mark:  |:heavy_check_mark: | :heavy_check_mark: |
+| 15: Word and PDF files| :heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: |
 | 16: CSV & JSON        | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
-| 17: Scheduling        | :heavy_check_mark:|:heavy_check_mark: |:heavy_check_mark:  |
+| 17: Scheduling        | :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
 | 18: Email and text messages |  |  |  |
-| 19: Images |:heavy_check_mark:  |:heavy_check_mark: |:heavy_check_mark:  |
-| 20: Controlling keyboard and mouse |  |  |  |
+| 19: Images		|:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:  |
+| 20: PyAutoGUI	| :heavy_check_mark:  |  |  |
