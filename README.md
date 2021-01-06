@@ -1,8 +1,5 @@
 # Automate the boring stuff with Python
 
-Missing notebooks:
-- 18
-
 
 | Task                  | Read                | Practice questions | Practice projects did|
 |-----------------------|---------------------|--------------------|----------------------|
@@ -23,6 +20,6 @@ Missing notebooks:
 | 15: Word and PDF files| :heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: |
 | 16: CSV & JSON        | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 17: Scheduling        | :heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |
-| 18: Email and text messages |  |  |  |
+| 18: Email and text messages |  :heavy_check_mark:  | :heavy_check_mark:  |  1/4|
 | 19: Images		|:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:  |
 | 20: PyAutoGUI	| :heavy_check_mark:  | :heavy_check_mark:  |  1/4|
