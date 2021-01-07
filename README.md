@@ -11,7 +11,7 @@
 | 06: Strings           | :heavy_check_mark:  | :heavy_check_mark: |  1/2 |
 | 07: Regexes           | :heavy_check_mark:  | :heavy_check_mark: | 1/3 |
 | 08: Input Validation  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
-| 09: Files             | :heavy_check_mark:  | :heavy_check_mark: | 2/3 |
+| 09: Files             | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 10: Organizing Files  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 11: Debugging         | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 12: Web Scraping      | :heavy_check_mark:  |:heavy_check_mark:  | 3/4 |
