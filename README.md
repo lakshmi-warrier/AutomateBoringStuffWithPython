@@ -9,7 +9,7 @@
 | 04: Lists             | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 05: Dictionaries      | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 06: Strings           | :heavy_check_mark:  | :heavy_check_mark: |  1/2 |
-| 07: Regexes           | :heavy_check_mark:  | :heavy_check_mark: | 1/3 |
+| 07: Regexes           | :heavy_check_mark:  | :heavy_check_mark: | 2/3 |
 | 08: Input Validation  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 09: Files             | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | 10: Organizing Files  | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
